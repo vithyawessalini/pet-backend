@@ -2,6 +2,10 @@
   "name": "first",
   "version": "0.1.0",
   "private": true,
+  "main":"server.js",
+   "engines": {
+    "node": "19.8.1"
+  },
   "dependencies": {
     "@auth0/auth0-react": "^2.2.3",
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
